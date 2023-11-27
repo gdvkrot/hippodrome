@@ -1,0 +1,89 @@
+2023-11-27 12:16:28.808 INFO [main] [Main.main(Main.java:22)] - Початок стрибків. Кількість учасників: 7
+2023-11-27 12:40:21.404 ERROR [main] [Hippodrome.<init>(Hippodrome.java:20)] - Horses list is empty
+2023-11-27 12:40:25.170 ERROR [main] [Hippodrome.<init>(Hippodrome.java:20)] - Horses list is empty
+2023-11-27 12:40:25.201 ERROR [main] [Hippodrome.<init>(Hippodrome.java:17)] - Horses list is null
+2023-11-27 12:40:25.236 ERROR [main] [Hippodrome.<init>(Hippodrome.java:17)] - Horses list is null
+2023-11-27 12:40:25.948 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:25.958 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:25.965 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:25.972 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:25.981 ERROR [main] [Horse.<init>(Horse.java:15)] - Name is null
+2023-11-27 12:40:26.000 ERROR [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2023-11-27 12:40:26.014 ERROR [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2023-11-27 12:40:26.021 ERROR [main] [Horse.<init>(Horse.java:15)] - Name is null
+2023-11-27 12:40:26.034 ERROR [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2023-11-27 12:40:26.047 ERROR [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2023-11-27 12:40:26.069 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:26.082 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:26.087 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:40:26.096 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:47.370 ERROR [main] [Hippodrome.<init>(Hippodrome.java:20)] - Horses list is empty
+2023-11-27 12:41:50.257 DEBUG [main] [Hippodrome.<init>(Hippodrome.java:26)] - створення Hippodrome, коней [50]
+2023-11-27 12:41:50.641 ERROR [main] [Hippodrome.<init>(Hippodrome.java:20)] - Horses list is empty
+2023-11-27 12:41:50.706 ERROR [main] [Hippodrome.<init>(Hippodrome.java:17)] - Horses list is null
+2023-11-27 12:41:50.730 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse0], швидкість [0.0]
+2023-11-27 12:41:50.731 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse1], швидкість [1.0]
+2023-11-27 12:41:50.732 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse2], швидкість [2.0]
+2023-11-27 12:41:50.735 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse3], швидкість [3.0]
+2023-11-27 12:41:50.736 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse4], швидкість [4.0]
+2023-11-27 12:41:50.737 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse5], швидкість [5.0]
+2023-11-27 12:41:50.739 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse6], швидкість [6.0]
+2023-11-27 12:41:50.742 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse7], швидкість [7.0]
+2023-11-27 12:41:50.743 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse8], швидкість [8.0]
+2023-11-27 12:41:50.744 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse9], швидкість [9.0]
+2023-11-27 12:41:50.745 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse10], швидкість [10.0]
+2023-11-27 12:41:50.746 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse11], швидкість [11.0]
+2023-11-27 12:41:50.746 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse12], швидкість [12.0]
+2023-11-27 12:41:50.764 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse13], швидкість [13.0]
+2023-11-27 12:41:50.789 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse14], швидкість [14.0]
+2023-11-27 12:41:50.790 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse15], швидкість [15.0]
+2023-11-27 12:41:50.791 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse16], швидкість [16.0]
+2023-11-27 12:41:50.792 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse17], швидкість [17.0]
+2023-11-27 12:41:50.794 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse18], швидкість [18.0]
+2023-11-27 12:41:50.794 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse19], швидкість [19.0]
+2023-11-27 12:41:50.795 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse20], швидкість [20.0]
+2023-11-27 12:41:50.795 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse21], швидкість [21.0]
+2023-11-27 12:41:50.795 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse22], швидкість [22.0]
+2023-11-27 12:41:50.796 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse23], швидкість [23.0]
+2023-11-27 12:41:50.796 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse24], швидкість [24.0]
+2023-11-27 12:41:50.796 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse25], швидкість [25.0]
+2023-11-27 12:41:50.797 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse26], швидкість [26.0]
+2023-11-27 12:41:50.797 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse27], швидкість [27.0]
+2023-11-27 12:41:50.798 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse28], швидкість [28.0]
+2023-11-27 12:41:50.798 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse29], швидкість [29.0]
+2023-11-27 12:41:50.798 DEBUG [main] [Hippodrome.<init>(Hippodrome.java:26)] - створення Hippodrome, коней [30]
+2023-11-27 12:41:50.830 ERROR [main] [Hippodrome.<init>(Hippodrome.java:17)] - Horses list is null
+2023-11-27 12:41:50.846 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse1], швидкість [1.0]
+2023-11-27 12:41:50.847 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse2], швидкість [2.0]
+2023-11-27 12:41:50.847 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse3], швидкість [3.0]
+2023-11-27 12:41:50.848 DEBUG [main] [Hippodrome.<init>(Hippodrome.java:26)] - створення Hippodrome, коней [3]
+2023-11-27 12:41:51.631 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.846 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.856 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.862 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.871 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.878 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.911 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.919 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.924 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.929 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.943 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:51.980 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:52.006 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.014 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.023 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.028 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.036 ERROR [main] [Horse.<init>(Horse.java:15)] - Name is null
+2023-11-27 12:41:52.057 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:52.062 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:52.074 ERROR [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2023-11-27 12:41:52.081 ERROR [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2023-11-27 12:41:52.090 ERROR [main] [Horse.<init>(Horse.java:15)] - Name is null
+2023-11-27 12:41:52.096 ERROR [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2023-11-27 12:41:52.103 ERROR [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2023-11-27 12:41:52.110 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
+2023-11-27 12:41:52.130 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.140 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.144 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.148 ERROR [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2023-11-27 12:41:52.155 DEBUG [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [null], швидкість [100.0]
